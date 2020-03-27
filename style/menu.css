@@ -1,0 +1,41 @@
+body {
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: relative;
+    margin-top: 0px;
+    margin-left: 0px;
+    display: flex;
+    flex-direction: column;
+    background-color: #11101c;
+}
+
+#fond {
+    height: 100vh;
+    margin-top: 0vh;
+    margin-left: 30vh;
+    position: absolute;
+    z-index: 0;
+}
+
+#start {
+    height: 20vh;
+    width: auto;
+    margin-left: 70vh;
+    margin-top: 20vh;
+    position: absolute;
+    z-index: 2;
+}
+
+#start:hover {
+    cursor: pointer;
+}
+
+#quit {
+    height: 20vh;
+    position: absolute;
+    margin-left: 70vh;
+    margin-top: 60vh;
+    z-index: 1;
+}

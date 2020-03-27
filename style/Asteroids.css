@@ -1,0 +1,170 @@
+#Asteroide1 {
+    height: 20vh;
+    margin-left: 200vh;
+    margin-top: 20vh;
+    position: absolute;
+    transform:rotate(180deg);
+    z-index: 9;
+}
+
+#Asteroide2 {
+    height: 20vh;
+    margin-left: 150vh;
+    margin-top: 40vh;
+    position: absolute;
+    transform:rotate(0deg);
+    z-index: 9;
+}
+
+#Asteroide3 {
+    height: 25vh;
+    margin-left: 200vh;
+    margin-top: 60vh;
+    position: absolute;
+    transform:rotate(0deg);
+    z-index: 9;
+}
+
+#Asteroide4 {
+    height: 30vh;
+    margin-left: 250vh;
+    margin-top: 0vh;
+    position: absolute;
+    transform:rotate(90deg);
+    z-index: 9;
+}
+
+#Asteroide5 {
+    height: 15vh;
+    margin-left: 300vh;
+    margin-top: 60vh;
+    position: absolute;
+    transform:rotate(90deg);
+    z-index: 9;
+}
+
+#Asteroide6 {
+    height: 20vh;
+    margin-left: 300vh;
+    margin-top: 30vh;
+    position: absolute;
+    transform:rotate(90deg);
+    z-index: 9;
+}
+
+#Asteroide7 {
+    height: 25vh;
+    margin-left: 350vh;
+    margin-top: 20vh;
+    position: absolute;
+    transform:rotate(0deg);
+    z-index: 9;
+}
+
+#Asteroide8 {
+    height: 40vh;
+    margin-left: 400vh;
+    margin-top: 45vh;
+    position: absolute;
+    transform:rotate(180deg);
+    z-index: 9;
+}
+
+#Asteroide9 {
+    height: 20vh;
+    margin-left: 450vh;
+    margin-top: 30vh;
+    position: absolute;
+    transform:rotate(180deg);
+    z-index: 9;
+}
+
+#Asteroide10 {
+    height: 15vh;
+    margin-left: 450vh;
+    margin-top: 80vh;
+    position: absolute;
+    transform:rotate(0deg);
+    z-index: 9;
+}
+
+#Asteroide11 {
+    height: 20vh;
+    margin-left: 500vh;
+    margin-top: 50vh;
+    position: absolute;
+    transform:rotate(90deg);
+    z-index: 9;
+}
+
+#Asteroide12 {
+    height: 30vh;
+    margin-left: 550vh;
+    margin-top: 60vh;
+    position: absolute;
+    transform:rotate(0deg);
+    z-index: 9;
+}
+
+#Asteroide13 {
+    height: 25vh;
+    margin-left: 550vh;
+    margin-top: 40vh;
+    position: absolute;
+    transform:rotate(90deg);
+    z-index: 9;
+}
+
+#Asteroide14 {
+    height: 25vh;
+    margin-left: 600vh;
+    margin-top: 50vh;
+    position: absolute;
+    transform:rotate(90deg);
+    z-index: 9;
+}
+
+#Asteroide15 {
+    height: 35vh;
+    margin-left: 650vh;
+    margin-top: 70vh;
+    position: absolute;
+    transform:rotate(90deg);
+    z-index: 9;
+}
+
+#Asteroide16 {
+    height: 25vh;
+    margin-left: 1100vh;
+    margin-top: 20vh;
+    position: absolute;
+    transform:rotate(0deg);
+    z-index: 9;
+}
+
+#Asteroide17 {
+    height: 25vh;
+    margin-left: 1100vh;
+    margin-top: 50vh;
+    position: absolute;
+    transform:rotate(0deg);
+    z-index: 9;
+}
+
+#Asteroide18 {
+    height: 25vh;
+    margin-left: 1100vh;
+    margin-top: 50vh;
+    position: absolute;
+    transform:rotate(0deg);
+    z-index: 9;
+}
+
+#Asteroide19 {
+    height: 25vh;
+    margin-left: 1100vh;
+    margin-top: 10vh;
+    position: absolute;
+    transform:rotate(90deg);
+    z-index: 9;
+}

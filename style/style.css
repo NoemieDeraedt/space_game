@@ -1,0 +1,120 @@
+
+body {
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    display: flex;
+    position: relative;
+    background-image: url('../Assets/FondSombre.png');
+}
+
+.etoile {
+    height: 100vh;
+    margin-left: 0px;
+    z-index: 2;
+}
+
+#AuraBas {
+    height: 100vh;
+    margin-left: -10vh;
+    margin-bottom: 0vh;
+    position: absolute;
+    z-index: 5;
+}
+
+#AuraHaut {
+    height: 100vh;
+    margin-left: 140vh;
+    margin-bottom: 0vh;
+    position: absolute;
+    z-index: 5;
+}
+
+#PetitePlanete1 {
+    height: 45vh;
+    margin-left: 110vh;
+    margin-bottom: 0vh;
+    position: absolute;
+    z-index: 6;
+}
+
+#PetitePlanete2 {
+    height: 150vh;
+    margin-left: 200vh;
+    margin-top: 15vh;
+    position: absolute;
+    z-index: 7;
+}
+
+#PetitePlanete3 {
+    height: 50vh;
+    margin-left: 0vh;
+    margin-top: 50vh;
+    position: absolute;
+    z-index: 6;
+}
+
+#PetitePlanete4 {
+    height: 40vh;
+    margin-left: 400vh;
+    margin-top: 5vh;
+    position: absolute;
+    z-index: 7;
+}
+
+#GrossePlanete {
+    height: 90vh;
+    margin-left: 70vh;
+    margin-bottom: 0vh;
+    position: absolute;
+    z-index: 6;
+}
+
+#Vaisseau {
+    height: 25vh;
+    margin-left: 5vh;
+    margin-top: 30vh;
+    position: absolute;
+    z-index: 8;
+}
+
+#video1 {
+    height: 100vh;
+    position: absolute;
+    margin-left: 15vh;
+    margin-top: 0vh;
+    z-index: 12;
+}
+
+#video2 {
+    height: 100vh;
+    position: absolute;
+    margin-left: 15vh;
+    margin-top: 0vh;
+    z-index: 11;
+}
+
+#fond {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    margin-left: 0vh;
+    margin-top: 0vh;
+    z-index: 10;
+}
+
+#HUD {
+    height: 10vh;
+    margin-top: 85vh;
+    position: absolute;
+    z-index: 9;
+}
+
+#barre {
+    height: 10vh;
+    margin-top: 85vh;
+    position: absolute;
+    clip-path: inset(0 17vh);
+    z-index: 10;
+}
